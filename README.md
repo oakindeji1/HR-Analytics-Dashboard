@@ -47,28 +47,12 @@
 3) Convert to Percentage : Attrition rate was converted to Percentage
 4) Create Dashboard Background : The Dashboard Background was designed and Copy Background from PowerPoint
 5) Creating Star Rating Chart :  This was done through Power point as well and copied to Excel
-8) Creating Chart:
-   Pie Chart
-        
-   Education Chart
-   Departmentwise Attrition
-   Bar Chart
-   Funnel Chart
-   Slicer
-
-The Chart created  are for;
-
-    i. Total Employee by Gender
-    
-    ii. Total Employee by Education
-    
-    iii. Total Employee by Job Roles
-    
-    iv.  Departmental wise Attrition
-    
-    v. Attrition by Age Group
-    
-    vi. Attrition by Marrital Status
+8) Creating Chart: I used
+        i.) Pie Chart for Total Employee by Gender and  Departmentwise Attrition,
+        ii.) Bar chart for Total Employees by Education and Age Group, 
+        iii.) Tree Map for Total Employees by Job Roles,
+        iv.) Attrition by Marital Status Funnel Chart,
+        v.) Slicer was also introduced for Education, Department, and Gender
 
 ### Formulae Used
 =GETPIVOTDATA("emp no",$A$3)
@@ -89,14 +73,15 @@ The Chart created  are for;
 
 <img width="291" height="247" alt="image" src="https://github.com/user-attachments/assets/287a3d3a-cb92-4678-8148-977380e8f512" />
 
-
-
-
-
-
-
 ### Dashboard Visualization
 <img width="1385" height="696" alt="image" src="https://github.com/user-attachments/assets/b93e9cb9-d3b8-4d91-a909-fca0ad6d4d59" />
 
 Insights from the Analysis
+From the Dashboard;
+     there are more Males Employees than Females
+     the hisgest Number of Employees has a bachelor degree and in a Sales Executive Job Roles
+     Department R&D has the highest number of Employees
+     The highest number of Empployees also for fall under Age-Group 24-34 and Marrital status Married
+     
+     
 
