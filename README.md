@@ -12,23 +12,14 @@
 ### Analysis Plan and Insights
 1) Create KPI: The KPI I consider for this project are;
 
-     i. Toltal Employees</br>
+     i. Toltal Employees </br>
 
    <img width="386" height="817" alt="image" src="https://github.com/user-attachments/assets/d7159c49-2736-4c4f-bbb4-5c053989703e"/>
-
-
-
-
-
-   
-   
-
-   <img width="386" height="817" alt="image" src="https://github.com/user-attachments/assets/d7159c49-2736-4c4f-bbb4-5c053989703e"/> </br>
    
    <img width="148" height="83" alt="image" src="https://github.com/user-attachments/assets/5f943cc2-e8f6-4cbd-8dfd-2f86ac139d3e" />
 
 
-     ii. Attrition</br>
+     ii. Attrition </br>
    
    <img width="385" height="823" alt="image" src="https://github.com/user-attachments/assets/7c07cc34-d148-43f7-a848-e18e807da3c1" />
    
@@ -55,9 +46,10 @@
        
 3) Convert to Percentage : Attrition rate was converted to Percentage
 4) Create Dashboard Background : The Dashboard Background was designed and Copy Background from PowerPoint
-5) Creating Star Rating Chart
+5) Creating Star Rating Chart :  This was done through Power point as well and copied to Excel
 8) Creating Chart:
    Pie Chart
+        
    Education Chart
    Departmentwise Attrition
    Bar Chart
