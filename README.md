@@ -22,12 +22,19 @@
 4) Copy Background from PowerPoint
 5) Creating Pivot Table
 6) Creating Star Rating Chart
-7) Creating Chart(Pie Chart, Education Chart, Departmentwise Attrition, Bar Chart, Funnel Chart,Slicers): The Chart created  are for;
+7) Creating Chart(Pie Chart, Education Chart, Departmentwise Attrition, Bar Chart, Funnel Chart,Slicers):
+
+The Chart created  are for;
     i. Total Employee by Gender
+    
     ii. Total Employee by Education
+    
     iii. Total Employee by Job Roles
+    
     iv.  Departmental wise Attrition
+    
     v. Attrition by Age Group
+    
     vi. Attrition by Marrital Status
 
 ### Formulae Used
