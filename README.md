@@ -13,25 +13,31 @@
 1) Create KPI: The KPI I consider for this project are;
 
      i. Toltal Employees
+   
         <img width="386" height="817" alt="image" src="https://github.com/user-attachments/assets/d7159c49-2736-4c4f-bbb4-5c053989703e" />
         <img width="148" height="83" alt="image" src="https://github.com/user-attachments/assets/5f943cc2-e8f6-4cbd-8dfd-2f86ac139d3e" />
 
 
      ii. Attrition
+   
         <img width="385" height="823" alt="image" src="https://github.com/user-attachments/assets/7c07cc34-d148-43f7-a848-e18e807da3c1" />
         <img width="315" height="102" alt="image" src="https://github.com/user-attachments/assets/741c7a54-e425-4fa4-8013-dc488be59f89" />
 
      iii. Active Employees
+   
         <img width="447" height="788" alt="image" src="https://github.com/user-attachments/assets/a3ec6d02-247f-4e4a-ac69-2dd77c4dacc4" />
         <img width="355" height="87" alt="image" src="https://github.com/user-attachments/assets/29867ccf-6fbe-4e94-b422-30f08fb0916c" />
 
      iv. Attrition Rates
+   
         This is Attrition divided by Toltal Employees
         <img width="732" height="210" alt="image" src="https://github.com/user-attachments/assets/24965ddd-6d67-49d0-b1cd-9673b952c3b0" />
 
       v. Average Age
+   
         <img width="406" height="827" alt="image" src="https://github.com/user-attachments/assets/2b4cf4b4-8c4b-437b-bb46-2fc1f838d63b" />
         <img width="188" height="75" alt="image" src="https://github.com/user-attachments/assets/302fe297-2585-4938-8fe7-ab15e4f3c85c" />
+   
 3) Convert to Percentage : Attrition rate was converted to Percentage
 4) Create Dashboard Background : The Dashboard Background was designed and Copy Background from PowerPoint
 5) Creating Star Rating Chart
