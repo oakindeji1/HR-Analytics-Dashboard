@@ -17,7 +17,7 @@
           <img width="386" height="817" alt="image" src="https://github.com/user-attachments/assets/d7159c49-2736-4c4f-bbb4-5c053989703e"/>
 
 
-<img width="188" height="75" alt="image" src="https://github.com/user-attachments/assets/4ba77d2b-b6e7-4b6d-8dd4-a6ce4f6b3faa" />
+
 
 
    </br>
@@ -47,10 +47,12 @@
         <img width="732" height="210" alt="image" src="https://github.com/user-attachments/assets/24965ddd-6d67-49d0-b1cd-9673b952c3b0" />
 
       v. Average Age
+             <img width="418" height="840" alt="image" src="https://github.com/user-attachments/assets/b749d0af-9a8b-48f2-a667-8317adc4c4f3" />
+            <img width="188" height="75" alt="image" src="https://github.com/user-attachments/assets/fbdf417b-813f-49ef-8bff-970bbc9077fe" />
+
+
    
-        <img width="406" height="827" alt="image" src="https://github.com/user-attachments/assets/2b4cf4b4-8c4b-437b-bb46-2fc1f838d63b" />
-        <img width="188" height="75" alt="image" src="https://github.com/user-attachments/assets/302fe297-2585-4938-8fe7-ab15e4f3c85c" />
-   
+       
 3) Convert to Percentage : Attrition rate was converted to Percentage
 4) Create Dashboard Background : The Dashboard Background was designed and Copy Background from PowerPoint
 5) Creating Star Rating Chart
