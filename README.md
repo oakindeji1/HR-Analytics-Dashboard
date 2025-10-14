@@ -45,7 +45,7 @@ The Chart created  are for;
 
 ### Build a dashboard to showcase key metrics:
 
-<img width="390" height="239" alt="image" src="https://github.com/user-attachments/assets/595f33a2-eddb-4a75-ac52-e31b6616acd1" />
+<img width="390" height="239" alt="image" src="https://github.com/user-attachments/assets/595f33a2-eddb-4a75-ac52-e31b6616acd1" /><br>
 
 <img width="493" height="247" alt="image" src="https://github.com/user-attachments/assets/0b492f1d-5dad-4b3d-bb80-35000d86f08a" />
 
