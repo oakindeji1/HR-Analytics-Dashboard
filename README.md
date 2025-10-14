@@ -13,8 +13,17 @@
 1) Create KPI: The KPI I consider for this project are;
 
      i. Toltal Employees
+
+          <img width="386" height="817" alt="image" src="https://github.com/user-attachments/assets/d7159c49-2736-4c4f-bbb4-5c053989703e"/>
+
+
+<img width="188" height="75" alt="image" src="https://github.com/user-attachments/assets/4ba77d2b-b6e7-4b6d-8dd4-a6ce4f6b3faa" />
+
+
+   </br>
    
-        <img width="386" height="817" alt="image" src="[https://github.com/user-attachments/assets/d7159c49-2736-4c4f-bbb4-5c053989703e](https://github.com/user-attachments/assets/d7159c49-2736-4c4f-bbb4-5c053989703e)"/> </br>
+
+        <img width="386" height="817" alt="image" src="https://github.com/user-attachments/assets/d7159c49-2736-4c4f-bbb4-5c053989703e"/> </br>
    
         <img width="148" height="83" alt="image" src="https://github.com/user-attachments/assets/5f943cc2-e8f6-4cbd-8dfd-2f86ac139d3e" />
 
