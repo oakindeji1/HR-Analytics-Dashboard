@@ -11,6 +11,7 @@
 
 ### Analysis Plan and Insights
 1) Create KPI: The KPI I consider for this project are;
+
      i. Toltal Employees
      ii. Attrition
      iii. Active Employees
