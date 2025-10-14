@@ -25,6 +25,7 @@
 7) Creating Chart(Pie Chart, Education Chart, Departmentwise Attrition, Bar Chart, Funnel Chart,Slicers):
 
 The Chart created  are for;
+
     i. Total Employee by Gender
     
     ii. Total Employee by Education
