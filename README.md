@@ -42,9 +42,22 @@ The Chart created  are for;
 =GETPIVOTDATA("emp no",$A$3)
 =IFERROR(GETPIVOTDATA("Attrition",$A$3,"Gender","Female"),0)
 =4-B25
-Build a dashboard to showcase key metrics:
 
-Dashboard Visualization
+### Build a dashboard to showcase key metrics:
+
+<img width="390" height="239" alt="image" src="https://github.com/user-attachments/assets/595f33a2-eddb-4a75-ac52-e31b6616acd1" />
+<img width="493" height="247" alt="image" src="https://github.com/user-attachments/assets/0b492f1d-5dad-4b3d-bb80-35000d86f08a" />
+<img width="444" height="242" alt="image" src="https://github.com/user-attachments/assets/67d97c25-429c-45d4-9e48-d7046b8473be" />
+<img width="401" height="242" alt="image" src="https://github.com/user-attachments/assets/a8bf1ff3-7ab5-43ef-8f20-9c39c3a86a57" />
+<img width="361" height="236" alt="image" src="https://github.com/user-attachments/assets/fbd32602-aea4-49ba-a6fc-be227ca156dd" />
+<img width="291" height="247" alt="image" src="https://github.com/user-attachments/assets/287a3d3a-cb92-4678-8148-977380e8f512" />
+
+
+
+
+
+
+### Dashboard Visualization
 <img width="1385" height="696" alt="image" src="https://github.com/user-attachments/assets/b93e9cb9-d3b8-4d91-a909-fca0ad6d4d59" />
 
 Insights from the Analysis
