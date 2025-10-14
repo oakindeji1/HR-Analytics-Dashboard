@@ -76,11 +76,11 @@
 ### Dashboard Visualization
 <img width="1385" height="696" alt="image" src="https://github.com/user-attachments/assets/b93e9cb9-d3b8-4d91-a909-fca0ad6d4d59" />
 
-Insights from the Analysis
-From the Dashboard;
-     there are more Males Employees than Females
-     the hisgest Number of Employees has a bachelor degree and in a Sales Executive Job Roles
-     Department R&D has the highest number of Employees
+### Insights from the Analysis
+#### From the Dashboard;
+     There are more Males Employees than Females</br>
+     The hisgest Number of Employees has a bachelor degree and in a Sales Executive Job Roles</br>
+     Department R&D has the highest number of Employees</br>
      The highest number of Empployees also for fall under Age-Group 24-34 and Marrital status Married
      
      
